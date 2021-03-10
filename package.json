@@ -1,0 +1,23 @@
+{
+  "name": "AWS_PRACTICE",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeon-seongjae/AWS_PRACTICE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeon-seongjae/AWS_PRACTICE/issues"
+  },
+  "homepage": "https://github.com/jeon-seongjae/AWS_PRACTICE#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
